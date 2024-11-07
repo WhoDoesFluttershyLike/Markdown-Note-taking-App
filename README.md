@@ -25,9 +25,9 @@ The **Markdown Note-taking App** is a RESTful API that allows users to create, s
 
 **1. Clone the Repository**
 
-git clone https://github.com/WhoDoesFluttershyLike/URL-Shortening-Service.git
+git clone https://github.com/WhoDoesFluttershyLike/Markdown-Note-taking-App.git
 
-cd URL-Shortening-Service
+cd Markdown-Note-taking-App
 
 **2. Install Dependencies**
 
